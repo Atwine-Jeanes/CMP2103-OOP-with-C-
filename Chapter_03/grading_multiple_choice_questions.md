@@ -16,7 +16,6 @@ int main()
         {'E', 'B', 'E', 'C', 'C', 'D', 'E', 'E', 'A', 'D'}
     };
 
-
     // Correct answers (answer key)
     char key[10] =
     {
